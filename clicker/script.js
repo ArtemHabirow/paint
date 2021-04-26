@@ -16,7 +16,7 @@ canvas.onmousemove = function(event){
 		var x = event.offsetX;
 		var y = event.offsetY;
 		ctx.fillRect(x, y, 10, 10);
-		cts.fillStyle = myColor;
+		ctx.fillStyle = myColor;
 		ctx.fill();
     }
     canvas.onmouseup = function(){

@@ -7,5 +7,12 @@ H1{
 	width: 400px;
 	height: 200px;
 	border: 3px solid black;
-	margin: 40px;
+}
+
+input{
+	width: 400px;
+}
+
+hr{
+	margin-right: 300px;
 }
